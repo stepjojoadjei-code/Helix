@@ -1,0 +1,8 @@
+{
+  "name": "Helix",
+  "description": "An AI partner that helps developers evolve their ideas into elegant, functional code. Supports voice, camera, and file uploads.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
